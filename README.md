@@ -1,16 +1,29 @@
-## Hi there 👋
+# Daniele — Junior Sysadmin
 
-<!--
-**DanieleSetti/DanieleSetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focused on building secure, reproducible infrastructure with Linux, VPNs, NFS, and Bash scripting.
 
-Here are some ideas to get you started:
+Currently working on:
+- 🧪 [R&D Secure LAN Simulation](https://github.com/DanieleSetti/isolated-rnd-lab) — simulated isolated infrastructure with VPN, SSH hardening, user management, and automation
+- 🚧 Preparing for automation with Ansible
+- 📘 Writing detailed documentation and scripts for reproducibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Linux (Debian/Ubuntu)
+- Bash scripting
+- Networking fundamentals
+- SSH, UFW, Fail2Ban
+- NFS, VPN (OpenVPN/WireGuard)
+- System monitoring (Cockpit, rsyslog)
+- Git, GitHub
+- Markdown documentation
+
+## 🔍 Looking for
+- Remote internship or junior-level system administration role
+- Hands-on opportunities to support infrastructure
+- Work on real systems, not theory
+
+## 📂 Projects
+- [🔐 Secure LAN for R&D Department](https://github.com/DanieleSetti/isolated-rnd-lab)
+
+---
+⏳ Open to collaboration and mentorship.
