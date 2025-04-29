@@ -24,6 +24,7 @@ Currently working on:
 - Work on real systems, not theory
 
 ## 📂 Projects
+- [📚 Multi DBMS Infrastructure for Inventory Management System](https://github.com/DanieleSetti/Multi-DBMS-Infrastructure-for-Inventory-Management-System)
 - [🔐 Secure LAN for R&D Department](https://github.com/DanieleSetti/isolated-rnd-lab)
 
 ---
