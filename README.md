@@ -3,6 +3,7 @@
 🎯 Focused on building secure, reproducible infrastructure with Linux, VPNs, NFS, and Bash scripting.
 
 Currently working on:
+- 📚 [Multi DBMS Infrastructure for Inventory Management System](https://github.com/DanieleSetti/Multi-DBMS-Infrastructure-for-Inventory-Management-System)
 - 🧪 [R&D Secure LAN Simulation](https://github.com/DanieleSetti/isolated-rnd-lab) — simulated isolated infrastructure with VPN, SSH hardening, user management, and automation
 - 🚧 Preparing for automation with Ansible
 - 📘 Writing detailed documentation and scripts for reproducibility
