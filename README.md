@@ -1,6 +1,6 @@
 # Daniele — Junior Database/System Administrator 
 
-🎯 Focused on building secure, reproducible infrastructure with Linux, VPNs, NFS, and Bash scripting.
+🎯 Focused on building secure and reproducible infrastructure integrating Linux systems with relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, automated provisioning, backup strategies, and network access control.
 
 Currently working on:
 - 📚 [Multi DBMS Infrastructure for Inventory Management System](https://github.com/DanieleSetti/Multi-DBMS-Infrastructure-for-Inventory-Management-System) - deployment and administration of a multi-database environment for a mid-size enterprise inventory system
@@ -17,9 +17,16 @@ Currently working on:
 - System monitoring (Cockpit, rsyslog)
 - Git, GitHub
 - Markdown documentation
+- Basic SQL (PostgreSQL, MySQL)  
+- NoSQL fundamentals (MongoDB)  
+- Relational schema design & normalization 
+- Backup and restore procedures  
+- Access control & user roles   
+- Configuration management with Ansible  
+- Performance tuning basics
 
 ## 🔍 Looking for
-- Remote internship or junior-level system administration role
+- Remote internship or junior-level database/administration role
 - Hands-on opportunities to support infrastructure
 - Work on real systems, not theory
 
