@@ -1,4 +1,4 @@
-# Daniele — Junior Sysadmin
+# Daniele — Junior Database/System Administrator 
 
 🎯 Focused on building secure, reproducible infrastructure with Linux, VPNs, NFS, and Bash scripting.
 
