@@ -5,6 +5,9 @@
 Currently working on:
 - 📚 [Multi DBMS Infrastructure for Inventory Management System](https://github.com/DanieleSetti/Multi-DBMS-Infrastructure-for-Inventory-Management-System) - deployment and administration of a multi-database environment for a mid-size enterprise inventory system
 - 🧪 [R&D Secure LAN Simulation](https://github.com/DanieleSetti/isolated-rnd-lab) — simulated isolated infrastructure with VPN, SSH hardening, user management, and automation
+- ☁️ [Cloud-SMB-Infrastructure-Lab-AWS-Microsoft-365](https://github.com/DanieleSetti/Cloud-Ready-SMB-Infrastructure-Lab-AWS-Microsoft-365/tree/main) -  AWS + Microsoft 365 Scope: Cloud Infrastructure, Identity Integration, Operational Automation
+
+
 - 🚧 Preparing for automation with Ansible
 - 📘 Writing detailed documentation and scripts for reproducibility
 
