@@ -1,41 +1,68 @@
-# Daniele — Junior Database/System Administrator 
+# Daniele Setti
+Junior DevOps Engineer | AWS Cloud & Infrastructure
 
-🎯 Focused on building secure and reproducible infrastructure integrating Linux systems with relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, automated provisioning, backup strategies, and network access control.
+I work with AWS-based infrastructure, focusing on building scalable, secure, and production-like systems.
 
-Currently working on:
-- 📚 [Multi DBMS Infrastructure for Inventory Management System](https://github.com/DanieleSetti/Multi-DBMS-Infrastructure-for-Inventory-Management-System) - deployment and administration of a multi-database environment for a mid-size enterprise inventory system
-- 🧪 [R&D Secure LAN Simulation](https://github.com/DanieleSetti/isolated-rnd-lab) — simulated isolated infrastructure with VPN, SSH hardening, user management, and automation
-- ☁️ [Cloud-SMB-Infrastructure-Lab-AWS-Microsoft-365](https://github.com/DanieleSetti/Cloud-Ready-SMB-Infrastructure-Lab-AWS-Microsoft-365/tree/main) -  AWS + Microsoft 365 Scope: Cloud Infrastructure, Identity Integration, Operational Automation
-
-
-- 🚧 Preparing for automation with Ansible
-- 📘 Writing detailed documentation and scripts for reproducibility
-
-## 🛠️ Skills
-- Linux (Debian/Ubuntu)
-- Bash scripting
-- Networking fundamentals
-- SSH, UFW, Fail2Ban
-- NFS, VPN (OpenVPN/WireGuard)
-- System monitoring (Cockpit, rsyslog)
-- Git, GitHub
-- Markdown documentation
-- Basic SQL (PostgreSQL, MySQL)  
-- NoSQL fundamentals (MongoDB)  
-- Relational schema design & normalization 
-- Backup and restore procedures  
-- Access control & user roles   
-- Configuration management with Ansible  
-- Performance tuning basics
-
-## 🔍 Looking for
-- Remote internship or junior-level database/administration role
-- Hands-on opportunities to support infrastructure
-- Work on real systems, not theory
-
-## 📂 Projects
-- [📚 Multi DBMS Infrastructure for Inventory Management System](https://github.com/DanieleSetti/Multi-DBMS-Infrastructure-for-Inventory-Management-System)
-- [🔐 Secure LAN for R&D Department](https://github.com/DanieleSetti/isolated-rnd-lab)
+Currently improving my skills in monitoring, incident response, and cloud operations.
 
 ---
-⏳ Open to collaboration and mentorship.
+
+## 🚀 Projects
+
+### 🔹 Highly Available AWS Infrastructure
+https://github.com/DanieleSetti/Highly-Available-Web-Application-Infrastructure-on-AWS
+
+Designed and implemented a production-like AWS architecture:
+
+- Multi-AZ VPC with public/private subnets  
+- Application Load Balancer + Auto Scaling Group  
+- EC2 instances running Nginx + Node.js  
+- RDS (PostgreSQL) in private subnets  
+- CI/CD pipeline with GitHub Actions  
+- Immutable deployments via instance refresh  
+- Secure network isolation (no public EC2/RDS access)  
+
+---
+
+### 🔹 Monitoring & Incident Response System *(in progress)*
+https://github.com/DanieleSetti/Monitoring-Incident-Response-System
+
+Building a system to monitor cloud infrastructure and handle real-world failures:
+
+- Metrics collection (CPU, latency, error rates)  
+- Centralized logging and error analysis  
+- Alerting based on system health and thresholds  
+- Simulated incidents (service crash, high load, failures)  
+- Troubleshooting and recovery workflows  
+
+---
+
+## 🛠️ Skills
+
+**Cloud**
+- AWS: EC2, VPC, ALB, RDS, IAM  
+
+**DevOps**
+- CI/CD (GitHub Actions)  
+- Infrastructure automation  
+- Monitoring (CloudWatch: metrics, logs, alerts)  
+
+**Infrastructure**
+- Networking (subnets, routing, security groups)  
+- Linux systems  
+- Secure architecture design  
+
+---
+
+## 🎯 Current Focus
+
+- Monitoring & observability  
+- Incident response and troubleshooting  
+- Improving production-level thinking in cloud systems  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/daniele-kostin-setti  
+- GitHub: https://github.com/DanieleSetti
