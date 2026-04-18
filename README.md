@@ -48,4 +48,3 @@ Building a system to monitor cloud infrastructure and handle real-world failures
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/daniele-kostin-setti  
-- GitHub: https://github.com/DanieleSetti
