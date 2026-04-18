@@ -37,23 +37,6 @@ Building a system to monitor cloud infrastructure and handle real-world failures
 
 ---
 
-## 🛠️ Skills
-
-**Cloud**
-- AWS: EC2, VPC, ALB, RDS, IAM  
-
-**DevOps**
-- CI/CD (GitHub Actions)  
-- Infrastructure automation  
-- Monitoring (CloudWatch: metrics, logs, alerts)  
-
-**Infrastructure**
-- Networking (subnets, routing, security groups)  
-- Linux systems  
-- Secure architecture design  
-
----
-
 ## 🎯 Current Focus
 
 - Monitoring & observability  
