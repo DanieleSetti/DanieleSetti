@@ -1,10 +1,6 @@
 # Daniele Setti
 Junior DevOps Engineer | AWS Cloud & Infrastructure
 
-I design and operate cloud-based systems on AWS, focusing on availability, observability, and failure handling.
-
-I build infrastructure that is not only deployed, but monitored, tested under failure, and recoverable.
-
 ---
 
 ## 🚀 Projects
