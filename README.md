@@ -1,9 +1,9 @@
 # Daniele Setti
 Junior DevOps Engineer | AWS Cloud & Infrastructure
 
-I work with AWS-based infrastructure, focusing on building scalable, secure, and production-like systems.
+I design and operate cloud-based systems on AWS, focusing on availability, observability, and failure handling.
 
-Currently improving my skills in monitoring, incident response, and cloud operations.
+I build infrastructure that is not only deployed, but monitored, tested under failure, and recoverable.
 
 ---
 
@@ -22,26 +22,26 @@ Designed and implemented a production-like AWS architecture:
 - Immutable deployments via instance refresh  
 - Secure network isolation (no public EC2/RDS access)  
 
+
+Focus: building a resilient and scalable application environment.
+
 ---
 
-### 🔹 Monitoring & Incident Response System *(in progress)*
+### 🔹 Monitoring & Incident Response System  
 https://github.com/DanieleSetti/Monitoring-Incident-Response-System
 
-Building a system to monitor cloud infrastructure and handle real-world failures:
+Built a monitoring system to detect, investigate, and resolve real-world failures in cloud infrastructure:
 
-- Metrics collection (CPU, latency, error rates)  
-- Centralized logging and error analysis  
-- Alerting based on system health and thresholds  
-- Simulated incidents (service crash, high load, failures)  
-- Troubleshooting and recovery workflows  
+- Prometheus for metrics collection from EC2 instances (private subnets)  
+- Grafana dashboards for CPU, memory, network, and instance health  
+- Alerting rules for high CPU usage and instance failures  
+- Integration of Node Exporter across Auto Scaling instances  
+- Simulated incidents:
+  - CPU stress → alert triggered and analyzed  
+  - Instance failure → detected via `up == 0`  
+  - Service disruption → investigated and resolved  
 
----
-
-## 🎯 Current Focus
-
-- Monitoring & observability  
-- Incident response and troubleshooting  
-- Improving production-level thinking in cloud systems  
+Focus: understanding system behavior under failure and performing incident response.
 
 ---
 
